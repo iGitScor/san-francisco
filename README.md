@@ -1,8 +1,10 @@
 # San francisco
 
-[![Build Status](https://travis-ci.org/iGitScor/san-francisco.svg?branch=master)](https://travis-ci.org/iGitScor/san-francisco)
-
 Web integrator playground
+
+[![Build Status](https://travis-ci.org/iGitScor/san-francisco.svg?branch=master)](https://travis-ci.org/iGitScor/san-francisco)
+[![dependencies Status](https://david-dm.org/iGitScor/san-francisco/status.svg)](https://david-dm.org/iGitScor/san-francisco)
+[![devDependencies Status](https://david-dm.org/iGitScor/san-francisco/dev-status.svg)](https://david-dm.org/iGitScor/san-francisco?type=dev)
 
 ## Table of tests
 
